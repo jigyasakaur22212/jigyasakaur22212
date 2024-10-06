@@ -31,7 +31,7 @@ I'm always open to discussions and collaboration!
 
 ## 🔗 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/jigyasa-kaur-chawla-3070861b1)
+- **LinkedIn**: [Jigyasa KAur Chawla](www.linkedin.com/in/jigyasa-kaur-chawla-3070861b1)
 - **Email**: jigyasakaur22212@gmail.com
 - 🌐 [Personal Website/Portfolio](your_website)
 
