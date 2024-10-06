@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a **Technical Enthusiast** with a passion for
 
 Here are a few projects I've worked on:
 
-1. **[Tomato Leaf Disease Identification using CNN]([https://github.com/jigyasakaur22212/Tomato-Disease-Indentification-CNN])**: Developed a model to identify diseases in tomato leaves using Convolutional Neural Networks, aiding farmers in timely diagnosis.
+1. **[Tomato Leaf Disease Identification using CNN](https://github.com/jigyasakaur22212/Tomato-Disease-Indentification-CNN)**: Developed a model to identify diseases in tomato leaves using Convolutional Neural Networks, aiding farmers in timely diagnosis.
 
 2. **[Prompt Injection Security](link_to_project)**: Developed techniques to protect against text-based prompt injections using heuristics and vector databases.
 
@@ -31,8 +31,9 @@ I'm always open to discussions and collaboration!
 
 ## 🔗 Connect with Me
 
-- **LinkedIn**: [Jigyasa KAur Chawla](www.linkedin.com/in/jigyasa-kaur-chawla-3070861b1)
+- **LinkedIn**: [Jigyasa Kaur Chawla](www.linkedin.com/in/jigyasa-kaur-chawla-3070861b1)
 - **Email**: jigyasakaur22212@gmail.com
 - 🌐 [Personal Website/Portfolio](your_website)
+- **Discord**: 
 
 Thanks for visiting my profile! 🚀
